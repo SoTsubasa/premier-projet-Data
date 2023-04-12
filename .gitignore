@@ -1,0 +1,6 @@
+# Ce fichier permet d'viter de sauvegarde des répertoire inutiles dans le repo 
+# ou des fihiers qui peuvent être générés automatiquement
+
+#environnement virtuel
+.venv
+
